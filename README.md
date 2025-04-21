@@ -5,7 +5,7 @@
 - 김은호, 곽동관, 이소정, 박승용
 
 ## 진행 방법
-
+- [프로젝트 진행방법](https://github.com/AITech-Study/Rag-Study/blob/main/project-workflow.md)
 
 ## 커밋 컨벤션
 ### 커밋 구조
